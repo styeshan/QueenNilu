@@ -79,10 +79,15 @@ global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://i.ibb.co/HFD15d1/4231971bbd0512d2a3d965e0451197f7.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `Hi Dear I'm Alive Now...😙♥
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `𝙷𝙸  𝙳𝙴𝙰𝚁 𝙸'𝚖 𝙰𝙻𝙸𝚅𝙴 𝙽𝙾𝚆 💯💞
 
-	   
-	   Type .menu To Get More Commands
+              𝚃𝚈𝙿𝙴  .𝚖𝚎𝚗𝚞 𝙶𝙴𝚃 𝙼𝙾𝚁𝙴 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙻𝙸𝚂𝚃🙃💯💞❄️
+
+
+
+
+      𝚃𝙷𝙰𝙽𝙺𝚂 𝙵𝙾𝚁 𝚄𝚂𝙸𝙽𝙶 𝙼𝚈 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙱𝙾𝚃🤖💞❄️
+
 	   
 	   
 	   
@@ -100,7 +105,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || true
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = true
 //👇 Desable PM Block
-global.NO_BLOCK = ["94761105459"]
+global.NO_BLOCK = ["94716124952"]
 
 
 

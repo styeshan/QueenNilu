@@ -22,31 +22,31 @@ global.READ_MASSAGE = 'true'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94725058757'] 
+global.owner = ['94761105459'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 @Yeshan_Bro🐼⸙ ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 @Vihanga_Bro🐼⸙ ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'off'
 //👇 Inbox massage block PM block
-global.INBOX_BLOCK =  'off'
+global.INBOX_BLOCK =  'on'
 //👇 Auto react 
-global.AUTO_REACT =  'false'
+global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  'Yeshan MD 😙♥️' 
+global.botnma =  'Vihanga MD 😙♥️' 
 //👇 Your name
-global.ownernma =  'Yeshan Basnayake' 
+global.ownernma =  'Vihanga Methsara' 
 //👇 Sticker package name
-global.packname =  '@Yeshan_Bro🐼⸙' 
+global.packname =  '@Vihanga_Bro🐼⸙' 
 //👇 Sticker Author Name
-global.author =  '_Yeshan MD 😙♥️_' 
+global.author =  '_Vihanga MD 😙♥️_' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'true'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'Private Massage Not Allowed...😊💔    Please Join : https://chat.whatsapp.com/LtlKMQJ2L68LsXCQtBEfbO !!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '🐼'
+global.OWNER_REACT =  '🖤'
 global.BAD_KICK_MSG = '*Bad word detect !*'
 //👇 URL.button 1 name
 global.BUTTON1 = 'My Bot Group 😙♥️'
@@ -55,7 +55,7 @@ global.BUTTON2 = 'Contact Me 🙂♥️'
 //👇 Button 1 url 
 global.BUTTON1_URL = 'https://chat.whatsapp.com/LtlKMQJ2L68LsXCQtBEfbO'
 //👇 Button 2 url
-global.BUTTON2_URL = 'wa.me/+94725058757?text='
+global.BUTTON2_URL = 'wa.me/+94761105459?text='
 //👇 Your Add Massage 
 global.ADD_MSG = '*✅ Success add Group*' 
 //👇 Your Kick Massage 
@@ -67,29 +67,26 @@ global.SONG_UP = '```☃️ ඔබ සෙවූ ගීතය Uploading...```'
 //👇 212 Number block
 global.NUMBER_212_BLOCK = 'true'
 //👇 Menu imoji 
-global.MENU_IMOJI = '😙|🪄'
+global.MENU_IMOJI = '😈|🪄'
 //👇 Your time zone ( use correct time zone )
 global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
 global.REMOVE_BG_API = 'UN5CqXp35xC2V97NPBd6Fvo5'
 //👇 Pron Video Download 
-global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'true'
+global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'fales'
 //👇 Change Bot Language (English-' EN ', Sinhala , ' SI ' , Tamil - ' TL ')
 global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://i.ibb.co/HFD15d1/4231971bbd0512d2a3d965e0451197f7.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `Hi Dear I'm Alive Now...😙♥️
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `Hi Dear I'm Alive Now...😙♥
 
-#මම_පෑනෙන්_ලිව්වා_අපෙ_කතාව🖋️🖇️❤️‍🩹
-
-   #එයා_පැන්සලෙන්_ලියලා_තියෙන්නෙ🖖📝
-
-           #මකන්න_හිතාගෙන🤏🧼📖
 	   
 	   Type .menu To Get More Commands
 	   
-	   @__Yeshan_Official_🎧♥️🍃)`
+	   
+	   
+	   @__Vihanga_Official_🎧♥️🍃)`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || `හායි ඔයාව සාදරයෙන් පිලිගන්නවා...😙♥️`
 //👇 welcome image 
@@ -103,7 +100,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || true
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = true
 //👇 Desable PM Block
-global.NO_BLOCK = ["94725058757"]
+global.NO_BLOCK = ["94761105459"]
 
 
 
@@ -115,9 +112,9 @@ global.NO_BLOCK = ["94725058757"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['94725058757'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94725058757'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = '_Yeshan Basnayake_' // Your name ඔබේ නම 
+global.pemilik = ['94761105459'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94761105459'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '_Vihanga Methsara_' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
